@@ -26,6 +26,7 @@ Authentication based on the ``ldap3`` module
 """
 
 
+from __future__ import absolute_import
 import ldap3
 import ldap3.core.exceptions
 

@@ -29,6 +29,7 @@ Original header below:
 # along with ldap3 in the COPYING and COPYING.LESSER files.
 # If not, see <http://www.gnu.org/licenses/>.
 """
+from __future__ import absolute_import
 from string import hexdigits
 
 STATE_ANY = 0
